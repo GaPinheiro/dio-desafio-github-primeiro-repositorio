@@ -5,7 +5,7 @@ Repositório criado para o primeiro Desaio de Projeto da DIO
 
 [Download Git](https://git-scm.com/downloads)
 
-[Sintaxe Basica Mardown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Basica MarKdown](https://www.markdownguide.org/basic-syntax/)
 
 [Dillinger (Editor de Markdown online)](https://dillinger.io/)
 
