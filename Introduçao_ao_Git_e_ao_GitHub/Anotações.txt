@@ -1,0 +1,6 @@
+## Link para Download do Git: https://git-scm.com/downloads
+ - O Git Bash é um terminal extendido para utilizar o uso do Git
+
+## Editores de Markdown:
+ - Dillinger (Online): https://dillinger.io/
+ - Typora
