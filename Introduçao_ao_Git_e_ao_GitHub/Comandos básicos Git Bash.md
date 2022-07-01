@@ -21,10 +21,10 @@
 - **git remote add origin https://github.com/GaPinheiro/dio-desafio-github-primeiro-repositorio.git**: Adiciona o repositório remoto _**"dio-desafio-github-primeiro-repositorio"**_.
 - **git remote -v**: Lista os repositorios remotos.
 - **git pull origin master**: Puxa o commit do github.
-- **git push origin master**: Empurra o commit para o Github
+- **git push origin master**: Empurra o commit para o Github.
 - **git clone https://github.com/GaPinheiro/dio-desafio-github-primeiro-repositorio.git**: Clona o repositório _**"dio-desafio-github-primeiro-repositorio" do GitHub**_
-
-
+- **git checkout -- .**: Remove todos os arquivos em **Not Staged**.
+- **git clean -df**: Remove todos os arquivos **Untracked Files** 
 
 
 
